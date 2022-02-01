@@ -143,7 +143,7 @@ window.addEventListener('load', async (event) => {
 
     //append the coming soon text
     const comingText = document.createElement('p');
-    comingText.innerHTML = "COMING SOON!";
+    comingText.innerHTML = "THE BEST WEBSITE!";
     comingText.style.fontSize   = '5vw';
     comingText.style.color      = 'rgba(0,0,0,0)';
     comingText.style.position   = 'absolute';
